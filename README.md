@@ -32,4 +32,4 @@ class Lunar {
 ```
 
 ### 效果
-![](https://github.com/WuLianN/calendar/blob/main/images/1.png)
+![](https://github.com/WuLianN/chinese-calendar/blob/main/images/1.png)
